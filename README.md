@@ -12,7 +12,7 @@ This project demonstrates end-to-end data analytics skills — from data collect
 - **Points Bar Chart** — Current standings for all 20 Premier League teams sorted by points
 - **Win/Draw/Loss Stacked Bar** — 100% stacked breakdown showing how each team earned their points
 - **Recent Results Table** — Latest match results with conditional formatting by outcome
-- **Upcoming Fixtures Probability Chart** — Win probability breakdown for upcoming matches with a favourite slicer
+- **Upcoming Fixtures Probability Chart** — Win probability breakdown for upcoming matches with a favorite team slicer
 <img width="1440" height="750" alt="PL" src="https://github.com/user-attachments/assets/17718268-64b6-4caa-b2ab-2e5053830426" />
 
 ---
